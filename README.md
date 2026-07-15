@@ -361,8 +361,4 @@ Developed for **OSDHack 2026** under the **On Device AI** theme.
 
 ContextShield demonstrates how local OCR, privacy-focused design, and secure desktop processing can help reduce accidental exposure of sensitive information in screenshots.
 
----
 
-# License
-
-This project is released under the license included in the repository.
