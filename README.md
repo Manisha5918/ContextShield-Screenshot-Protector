@@ -569,13 +569,7 @@ The long-term goal is to create an extensible privacy layer for safer screenshot
 **Manisha G**
 
 B.Tech Artificial Intelligence and Data Science  
-Karpagam College of Engineering, Coimbatore
 
----
-
-## 📄 License
-
-The licensing information for this project is provided in the repository's `LICENSE` file.
 
 ---
 
